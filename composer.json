@@ -1,0 +1,15 @@
+{
+    "name": "games/mvc-will",
+    "autoload": {
+        "psr-4": {
+            "Games\\MvcWill\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "LucasHDLLF",
+            "email": "gameslucas999@gmail.com"
+        }
+    ],
+    "require": {}
+}
